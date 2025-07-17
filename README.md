@@ -1,2 +1,2 @@
 # Grafo-Puno
-Aplicación para generar rutas en Puno usando algoritmos de busqueda en grafos
+Aplicación para generar rutas en Puno usando los algoritmos Dijkstra y A* para hacer la busqueda de la ruta maás corta en grafos
