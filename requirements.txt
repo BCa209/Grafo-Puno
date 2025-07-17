@@ -1,0 +1,4 @@
+# pipreqs .
+networkx==3.5
+osmnx==2.0.5
+tkintermapview==1.29

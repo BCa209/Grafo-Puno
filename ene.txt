@@ -1,0 +1,9 @@
+/dijkstra en mapa       
+|-- /utils                  #carpeta de datos
+|   |-- aristas.json        #aristas con lngitud
+|   |-- nodos.json          #nodos con lat,lon
+|-- app.py                  #interfaz con mapa
+|-- extraer_grafo.py        #extrae datos de OSM y genera nodos/aristas JSON
+|-- dibujar_grafo.py        #dibuja el grafo (desde JSON) como imagen estática
+|-- utils.py                #funciones auxiliares: cargar grafo, helpers
+|-- algoritmos.py           # Dijkstra, 
